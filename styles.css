@@ -312,6 +312,13 @@ input[type="submit"] {
 
 }
 
+.prueba {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 @media screen and (max-width:900px) {
     .card {
         width: 48%;
